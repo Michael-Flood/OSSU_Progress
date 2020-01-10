@@ -5,7 +5,7 @@ In light of previous programming experience and advice from others who have take
 
 Course 0: Coursera "Learning How to Learn" (completed December 2019)
 
-Course 1: Berkeley CS 61AS (in place of OSSU CS Introduction to Computer Science recommendation)
+Course 1: Berkeley CS 61A (in place of OSSU CS Introduction to Computer Science recommendation), reading Composing Programs by (https://composingprograms.com)
 
 Course 2: EdX "Effective Thinking Through Mathematics"
 
