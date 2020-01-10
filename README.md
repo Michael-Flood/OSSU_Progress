@@ -3,7 +3,7 @@ Record of my progress in the Open Source Society University Computer Science cur
 
 In light of previous programming experience and advice from others who have taken the course, I have opted to make a few changes to the curriculum.
 
-Course 0: Coursera "Learning How to Learn"
+Course 0: Coursera "Learning How to Learn" (completed December 2019)
 
 Course 1: Berkeley CS 61AS (in place of OSSU CS Introduction to Computer Science recommendation)
 
